@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/routest/static/css/main.7acaea2f.css",
-    "main.js": "/routest/static/js/main.07d3183d.js",
+    "main.js": "/routest/static/js/main.0c24e931.js",
     "index.html": "/routest/index.html",
     "main.7acaea2f.css.map": "/routest/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/routest/static/js/main.07d3183d.js.map"
+    "main.0c24e931.js.map": "/routest/static/js/main.0c24e931.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.0c24e931.js"
   ]
 }
